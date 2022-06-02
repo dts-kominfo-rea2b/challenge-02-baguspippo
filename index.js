@@ -18,7 +18,8 @@ function lakukanLooping(arrPegawai) {
   let dataYangAkanDilooping = arrPegawai;
 
   /*
-    TODO 1: Buatlah sebuah variabel bernama "hasilLooping" 
+  
+  TODO 1: Buatlah sebuah variabel bernama "hasilLooping" 
       yang berisi gabungan nama depan dan belakang dari masing masing pegawai
 
       Contoh: ["Aisyah Nirmala", "Mansur Faisal", ...]
@@ -28,7 +29,8 @@ function lakukanLooping(arrPegawai) {
     hasilLooping.push(`${pegawai.namaDepan} ${pegawai.namaBelakang}`);
   }
   /*
-    TODO 2: Buatlah sebuah variabel bernama "jumlahPria"
+  
+  TODO 2: Buatlah sebuah variabel bernama "jumlahPria"
       yang berisi jumlah pria dari masing masing pegawai
   */
   let jumlahPria = 0;
@@ -37,7 +39,8 @@ function lakukanLooping(arrPegawai) {
   }
 
   /*
-    TODO 3: Buatlah sebuah variabel bernama "jumlahWanita"
+  
+  TODO 3: Buatlah sebuah variabel bernama "jumlahWanita"
       yang berisi jumlah wanita dari masing masing pegawai
   */
   let jumlahWanita = 0;
@@ -46,7 +49,8 @@ function lakukanLooping(arrPegawai) {
   }
 
   /*
-    TODO 4: Buatlah sebuah variabel bernama "komentar"
+  
+  TODO 4: Buatlah sebuah variabel bernama "komentar"
       yang akan mengomentari apakah lebih banyak Pria atau Wanita
       
       Apabila Pria lebih banyak dari Wanita, maka komentar akan berisi:
